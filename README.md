@@ -3,6 +3,6 @@ light candle php script
 
 Get it from:
 
-http://lightingacandle.cf
+https://lightingacandle.cf
 
-or click on the button: 'Clone'
+or click on the button: 'Code'
