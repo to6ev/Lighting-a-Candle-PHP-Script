@@ -3,6 +3,6 @@ light candle php script
 
 Get it from:
 
-https://lightingacandle.cf
+https://lightingacandle.tk
 
 or click on the button: 'Code'
