@@ -5,4 +5,6 @@ Get it from:
 
 https://lightingacandle.tk
 
+https://lightcandle.cf
+
 or click on the button: 'Code'
