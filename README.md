@@ -3,8 +3,9 @@ light candle php script
 
 Get it from:
 
-https://lightingacandle.tk
+https://lightingacandle.eti.pw
 
-https://lightcandle.cf
+https://lightingacandle.tk - old
+https://lightcandle.cf - old
 
 or click on the button: 'Code'
